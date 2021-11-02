@@ -276,6 +276,10 @@ function bubbleSort(arr) {
 select form, count(*) from table
 group by form
 ```
+ 
+## Java
+* Java Stream API Шпаргалка
+https://habr.com/ru/company/luxoft/blog/270383/ 
 
 ## Other
 * Что такое Паттерны проектирования? Какие можете назвать?
